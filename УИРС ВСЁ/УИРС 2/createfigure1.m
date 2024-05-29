@@ -13,10 +13,10 @@ axes1 = axes('Parent',figure1);
 hold(axes1,'on');
 
 % Create plot
-plot(ts1,getcolumn1,'DisplayName','Выходной сигнал',...
+plot(ts1,getcolumn1,'DisplayName','Выходной сигнал','LineWidth',3,...
     'Color',[0 0 0]);
 % Create plot
-plot(ts1,getcolumn2,'--','DisplayName','Входной сигнал',...
+plot(ts1,getcolumn2,'--','DisplayName','Входной сигнал','LineWidth',3,...
     'Color',[0 0 0]);
 
 
@@ -34,7 +34,7 @@ box(axes1,'on');
 hold(axes1,'off');
 % Set the remaining axes properties
 set(axes1,'FontName','Times New Roman','GridAlpha',1,'GridColor',[0 0 0],...
-    'TickDir','in','XGrid','on','YGrid','on');
+    'TickDir','in','XGrid','on','YGrid','on','FontSize',14);
 % Create legend
 legend1 = legend(axes1,'show');
 set(legend1,'Interpreter','none','FontSize',14);
