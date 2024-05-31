@@ -1,0 +1,296 @@
+<mxfile host="app.diagrams.net" modified="2024-05-31T07:19:07.130Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 YaBrowser/24.4.0.0 Safari/537.36" etag="Hw0OGscNzvWygsZs9g3-" version="24.4.10" type="device">
+  <diagram name="Страница — 1" id="b42jBtwzWKY3EmxVWViu">
+    <mxGraphModel dx="4398" dy="1490" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ot7fjIaGUOw3Zqs_UsoA-1" target="g8mjM92IUdxapJ9a0LdL-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ot7fjIaGUOw3Zqs_UsoA-1" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="46.25" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Ot7fjIaGUOw3Zqs_UsoA-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" source="Ot7fjIaGUOw3Zqs_UsoA-2" target="Ot7fjIaGUOw3Zqs_UsoA-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-8" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ot7fjIaGUOw3Zqs_UsoA-5" vertex="1" connectable="0">
+          <mxGeometry x="0.2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ot7fjIaGUOw3Zqs_UsoA-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" parent="1" source="Ot7fjIaGUOw3Zqs_UsoA-2" target="Ot7fjIaGUOw3Zqs_UsoA-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-7" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="Ot7fjIaGUOw3Zqs_UsoA-9" vertex="1" connectable="0">
+          <mxGeometry x="-0.559" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ot7fjIaGUOw3Zqs_UsoA-2" value="&amp;nbsp; &amp;nbsp; Есть команда на включение&lt;br&gt;&amp;nbsp;ШИМ?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry y="120" width="162.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ot7fjIaGUOw3Zqs_UsoA-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" source="Ot7fjIaGUOw3Zqs_UsoA-3" target="Ot7fjIaGUOw3Zqs_UsoA-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ot7fjIaGUOw3Zqs_UsoA-3" value="Обнуляем значение регулятора тока&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="8.75" y="260" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" parent="1" source="Ot7fjIaGUOw3Zqs_UsoA-4" target="g8mjM92IUdxapJ9a0LdL-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ot7fjIaGUOw3Zqs_UsoA-4" value="Захват ОС по току" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="21.25" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ot7fjIaGUOw3Zqs_UsoA-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" source="Ot7fjIaGUOw3Zqs_UsoA-8" target="Ot7fjIaGUOw3Zqs_UsoA-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ot7fjIaGUOw3Zqs_UsoA-8" value="Захват ОС по току" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="201.25" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" source="Ot7fjIaGUOw3Zqs_UsoA-10" target="g8mjM92IUdxapJ9a0LdL-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ot7fjIaGUOw3Zqs_UsoA-10" value="Расчёт регулятора" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="201.25" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="g8mjM92IUdxapJ9a0LdL-1" target="g8mjM92IUdxapJ9a0LdL-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="261.25" y="520" />
+              <mxPoint x="81.25" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-1" value="Реализация полученного напряжения с помощью ШИМ" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="166.25" y="440" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-2" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="46.25" y="550" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g8mjM92IUdxapJ9a0LdL-27" target="Ot7fjIaGUOw3Zqs_UsoA-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-27" value="Захватываем задание уровня тока" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="8.75" y="40" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g8mjM92IUdxapJ9a0LdL-32" target="g8mjM92IUdxapJ9a0LdL-50" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-32" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="-780.75" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" source="g8mjM92IUdxapJ9a0LdL-37" target="g8mjM92IUdxapJ9a0LdL-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-34" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g8mjM92IUdxapJ9a0LdL-33" vertex="1" connectable="0">
+          <mxGeometry x="0.2" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" parent="1" source="g8mjM92IUdxapJ9a0LdL-37" target="g8mjM92IUdxapJ9a0LdL-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-36" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="g8mjM92IUdxapJ9a0LdL-35" vertex="1" connectable="0">
+          <mxGeometry x="-0.559" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-37" value="&amp;nbsp; &amp;nbsp; Есть команда на включение&lt;br&gt;&amp;nbsp;ШИМ?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-827" y="120" width="162.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g8mjM92IUdxapJ9a0LdL-39" target="g8mjM92IUdxapJ9a0LdL-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-39" value="Обнуляем значение регулятора тока&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-818.25" y="260" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" parent="1" source="g8mjM92IUdxapJ9a0LdL-41" target="g8mjM92IUdxapJ9a0LdL-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-41" value="Захват ОС по току" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-805.74" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g8mjM92IUdxapJ9a0LdL-43" target="g8mjM92IUdxapJ9a0LdL-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-43" value="Захват ОС по току" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-625.75" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" source="g8mjM92IUdxapJ9a0LdL-45" target="g8mjM92IUdxapJ9a0LdL-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-45" value="Расчёт регулятора скорости" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-625.75" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g8mjM92IUdxapJ9a0LdL-47" target="UmIUZGT8Ik0RKi__QlFh-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-47" value="Расчёт регулятора тока" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-630.75" y="620" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-48" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="-780.75" y="820" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g8mjM92IUdxapJ9a0LdL-50" target="g8mjM92IUdxapJ9a0LdL-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-50" value="Захватываем задание скорости" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-818.25" y="40" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g8mjM92IUdxapJ9a0LdL-51" target="g8mjM92IUdxapJ9a0LdL-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-51" value="Обнуляем значение регулятора скорости" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-824.87" y="350" width="158.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g8mjM92IUdxapJ9a0LdL-53" target="g8mjM92IUdxapJ9a0LdL-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-53" value="Обнуляем фильтрованное значение скорости" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-818.25" y="440" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g8mjM92IUdxapJ9a0LdL-54" target="g8mjM92IUdxapJ9a0LdL-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-54" value="Расчёт скорости по информации от датчика положения" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-639.88" y="350" width="148.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="g8mjM92IUdxapJ9a0LdL-55" target="g8mjM92IUdxapJ9a0LdL-45" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g8mjM92IUdxapJ9a0LdL-55" value="Расчёт фильтрованной скорости" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-644.88" y="440" width="158.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UmIUZGT8Ik0RKi__QlFh-1" target="g8mjM92IUdxapJ9a0LdL-48" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-566" y="800" />
+              <mxPoint x="-746" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-1" value="Реализация полученного напряжения с помощью ШИМ" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-660.75" y="710" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UmIUZGT8Ik0RKi__QlFh-11" target="UmIUZGT8Ik0RKi__QlFh-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-11" value="Начало" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="-1607.75" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" source="UmIUZGT8Ik0RKi__QlFh-16" target="UmIUZGT8Ik0RKi__QlFh-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-13" value="Нет" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UmIUZGT8Ik0RKi__QlFh-12" vertex="1" connectable="0">
+          <mxGeometry x="0.2" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" parent="1" source="UmIUZGT8Ik0RKi__QlFh-16" target="UmIUZGT8Ik0RKi__QlFh-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-15" value="Да" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="UmIUZGT8Ik0RKi__QlFh-14" vertex="1" connectable="0">
+          <mxGeometry x="-0.559" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-16" value="&amp;nbsp; &amp;nbsp; Есть команда на включение&lt;br&gt;&amp;nbsp;ШИМ?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1654" y="120" width="162.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UmIUZGT8Ik0RKi__QlFh-18" target="UmIUZGT8Ik0RKi__QlFh-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-18" value="Обнуляем значение регулятора тока&amp;nbsp;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1645.25" y="260" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;" parent="1" source="UmIUZGT8Ik0RKi__QlFh-20" target="UmIUZGT8Ik0RKi__QlFh-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-20" value="Захват ОС по току" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1632.75" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UmIUZGT8Ik0RKi__QlFh-22" target="UmIUZGT8Ik0RKi__QlFh-35" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-22" value="Захват ОС по току" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1452.75" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;fontSize=14;" parent="1" source="UmIUZGT8Ik0RKi__QlFh-24" target="UmIUZGT8Ik0RKi__QlFh-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-24" value="Расчёт регулятора скорости" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1452.74" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UmIUZGT8Ik0RKi__QlFh-26" target="UmIUZGT8Ik0RKi__QlFh-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-26" value="Расчёт регулятора тока" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1457.74" y="800" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-27" value="Конец" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=14;arcSize=50;" parent="1" vertex="1">
+          <mxGeometry x="-1607.75" y="990" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UmIUZGT8Ik0RKi__QlFh-29" target="UmIUZGT8Ik0RKi__QlFh-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-29" value="Захватываем задание положения" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1645.25" y="40" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UmIUZGT8Ik0RKi__QlFh-31" target="UmIUZGT8Ik0RKi__QlFh-33" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-31" value="Обнуляем значение регулятора скорости" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1651.87" y="350" width="158.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UmIUZGT8Ik0RKi__QlFh-33" target="UmIUZGT8Ik0RKi__QlFh-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-33" value="Обнуляем фильтрованное значение скорости" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1645.25" y="440" width="145" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-35" value="Расчёт скорости по информации от датчика положения" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1466.88" y="350" width="148.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UmIUZGT8Ik0RKi__QlFh-37" target="UmIUZGT8Ik0RKi__QlFh-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-37" value="Расчёт фильтрованной скорости" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1471.88" y="620" width="158.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="UmIUZGT8Ik0RKi__QlFh-39" target="UmIUZGT8Ik0RKi__QlFh-27" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1393" y="970" />
+              <mxPoint x="-1573" y="970" />
+            </Array>
+            <mxPoint x="-1392.7" y="1090" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UmIUZGT8Ik0RKi__QlFh-39" value="Реализация полученного напряжения с помощью ШИМ" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="-1487.75" y="890" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJgOXrKkoPNZ25gZuDL-1" value="Обнуляем значение задатчика интенсивности по положению" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1652.75" y="615" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJgOXrKkoPNZ25gZuDL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UmIUZGT8Ik0RKi__QlFh-35" target="4xJgOXrKkoPNZ25gZuDL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1393" y="410" as="sourcePoint" />
+            <mxPoint x="-1393" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4xJgOXrKkoPNZ25gZuDL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4xJgOXrKkoPNZ25gZuDL-2" target="4xJgOXrKkoPNZ25gZuDL-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJgOXrKkoPNZ25gZuDL-2" value="Расчёт задатчика интенсивности по положению" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1471.87" y="440" width="158.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJgOXrKkoPNZ25gZuDL-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4xJgOXrKkoPNZ25gZuDL-4" target="UmIUZGT8Ik0RKi__QlFh-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4xJgOXrKkoPNZ25gZuDL-4" value="Расчёт регулятора&amp;nbsp;&lt;div&gt;положения&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Times New Roman;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-1452.76" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
